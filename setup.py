@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='db_to_excel',
-    version='0.1',
+    name='auto-doc-collector',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=[
         'pandas',
@@ -22,7 +22,7 @@ setup(
     description='A package to export database tables to Excel files',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/psymoniko/auto-doc-collector',
+    url='https://github.com/PsymoNiko/auto-doc-collector/',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
