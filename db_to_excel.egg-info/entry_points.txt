@@ -1,4 +1,0 @@
-[console_scripts]
-export_db_to_excel = db_to_excel.management.commands.export_db_to_excel:Command.handle
-export_sql_dump = db_to_excel.management.commands.export_sql_dump:Command.handle
-
