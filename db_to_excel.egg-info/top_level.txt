@@ -1,0 +1,2 @@
+auto_doc_collector
+core
